@@ -1,2 +1,2 @@
 # IMDBInfoGrabber
-Grabs information from IMDB through OMDB.  Goes through IMDB IDs, START_ID through END_ID, and saves all IDs with a valid IMDB_Rating component.  Built in support of an Android app.
+Grabs information from IMDB through OMDB.  Goes through IMDB IDs, START_ID through END_ID, and saves all IDs with a valid IMDB_Rating component.  Built to support of an Android app.
